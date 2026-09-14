@@ -1,0 +1,6 @@
+{
+  "name": "DHealora",
+  "description": "Your all-in-one AI healthcare companion with diagnostic lab analyzer, digital health twin, vitals telemetry, and clinical continuity.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
